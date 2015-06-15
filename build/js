@@ -1,0 +1,2 @@
+cd `dirname $0`/../javascript
+node vendor/r.js -o build.js include=requirelib
